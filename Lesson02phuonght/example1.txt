@@ -1,0 +1,4 @@
+git init là gì? => Trả lời: Thao tác này biến thư mục hiện tại thành một kho lưu trữ Git cục bộ (local repository).Khời tạo các vùng :working directory, Staging Area và Local repository
+git add <file_name> là gì? => Trả lời: Di chuyển thay đổi của 1 file cụ thể từ Working directory sang Staging Area, chuẩn bị cho commit tiếp theo
+git add . là gì => Trả lời: Di chuyển tất cả thai đổi trong working directory vào Staging Area. Bao gồm file mới, file đã sửa thay đổi
+git commit -m "message" là gì? => Trả lời: Tạo snapshot của tất cả thay đổi trong staging area và lưu vào local repository với message mô tả
